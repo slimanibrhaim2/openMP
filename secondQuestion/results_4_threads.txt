@@ -1,0 +1,9 @@
+Sequential calculation:
+Estimated area (sequential): 1.51067
+Time (sequential): 10.9412 seconds
+
+Parallel calculation with 4 threads:
+Estimated area (parallel): 1.51145
+Time (parallel): 5.09839 seconds
+
+Speedup: 2.146
